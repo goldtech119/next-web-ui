@@ -1,0 +1,14 @@
+{
+    "NewAutoDelete": "New Auto Delete",
+    "AddFilter": "Add Filter",
+    "Filters": "Filters",
+    "SelectChannel": "Select a Channel",
+    "SelectFilterType": "Select type of filter",
+    "Startswith": "Starts with ",
+    "MatchFilterOption": "Match Filters Option",
+    "DeleteAllFilterMatch": "Delete messages that match all filters.",
+    "DeleteAnyFilterMatch": "Delete messages that match any filter.",
+    "Delay": "Delay (optional)",
+    "Seconds": "Seconds",
+    "ConfirmDeleteConfig": "Are you sure to delete config?"
+}

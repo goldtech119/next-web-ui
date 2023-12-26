@@ -1,0 +1,63 @@
+{
+	"BotNickname": {
+		"label": "Bot Nickname",
+		"placeholder": "Enter name here"
+	},
+	"Roles": {
+		"label": "Add Managing Roles"
+	},
+	"AllowedChannels": {
+		"label": "Allowed Channels"
+	},
+	"IgnoredChannels": {
+		"label": "Ignored Channels"
+	},
+	"AllowedRoles": {
+		"label": "Allowed Roles"
+	},
+	"IgnoredRoles": {
+		"label": "Ignored Roles"
+	},
+	"Command": {
+		"label": "Command Prefex",
+		"placeholder": "ie. ?"
+	},
+	"ChannelNotifications": {
+		"label": "Receive update notifications on:",
+		"placeholder": "Select a Channel"
+	},
+	"Timezone": {
+		"label": "Timezone"
+	},
+	"Emojis": {
+		"label": "Custom Emojis"
+	},
+	"DisableWarnings": {
+		"label": "Disable warnings for disabled commands/modules"
+	},
+	"ImageUpload": {
+		"label": "Upload media",
+		"drop": "Drop to upload",
+		"message": "límite {{number}}MB"
+	},
+	"CustomThreshold": {
+		"button": "+ Add Custom Threshold"
+	},
+	"FilterOptions": {
+		"Links": "Links",
+		"NotLinks": "Not Links",
+		"Invites": "Invites",
+		"NotInvites": "Not Invites",
+		"Images": "Images",
+		"NotImages": "Not Images",
+		"IncludesText": "Includes Text",
+		"ExactText": "Exact Text",
+		"ExcludesText": "Excludes Text",
+		"StartWith": "Start With",
+		"NotStartWith": "Doesn't Start With",
+		"EndsWith": "Ends With",
+		"OnlyNumbers": "Only Numbers",
+		"HasRole": "Has Role",
+		"NotRole": "Not Role"
+	}
+}

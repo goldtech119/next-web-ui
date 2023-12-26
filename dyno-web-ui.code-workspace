@@ -1,0 +1,46 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.autoSave": "onFocusChange",
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "files.exclude": {
+      ".next": true,
+      "*.code-workspace": true,
+      "next-env.d.ts": true,
+      "node_modules": true,
+      "package-lock.json": true,
+      ".husky/_": true
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "rvest.vs-code-prettier-eslint"
+    ]
+  }
+}

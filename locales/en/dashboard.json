@@ -1,0 +1,32 @@
+{
+  "Greets": {
+    "Morning": "Good Morning, {name}",
+    "Afternoon": "Good Afternoon, {name}",
+    "Evening": "Good Evening, {name}",
+    "Default": "Welcome back, {name}"
+  },
+  "News": "Here's what's been happening in the past {count} days",
+  "UpdateOn": "Update on",
+  "Stats": "Server Stats",
+  "ServerID": "Server ID",
+  "StatBlocks": {
+    "Members": "Members",
+    "Text": "Text Channels",
+    "Bots": "Bots",
+    "Roles": "Roles",
+    "Voice": "Voice Channels",
+    "Categories": "Categories"
+  },
+  "updates": "Updates",
+  "FavoriteModules": {
+    "Title": "Your Favorites",
+    "SeeMore": "See More Modules"
+  },
+  "ServerSettings": {
+    "title": "Server Settings"
+  },
+  "Logs": {
+    "title": "Logs",
+    "description": "The description of the logs page."
+  }
+}

@@ -1,0 +1,31 @@
+{
+	"BotNickname": {
+		"label": "Nombre del Bot",
+		"placeholder": "Agrega un nombre aquí"
+	},
+	"Roles": {
+		"label": "Agregar roles"
+	},
+	"Command": {
+		"label": "Prefijo del comando",
+		"placeholder": "ej. ?"
+	},
+	"ChannelNotifications": {
+		"label": "Recibir las notificaciones de las actualizaciones en:",
+		"placeholder": "Selecciona un Canal"
+	},
+	"Timezone": {
+		"label": "Zona horaria"
+	},
+	"Emojis": {
+		"label": "Emojis personalizados"
+	},
+	"DisableWarnings": {
+		"label": "Deshabilitar alertas para comandos o módulos desactivados"
+	},
+	"ImageUpload": {
+		"label": "Subir imágen",
+		"drop": "Soltar aquí la imágen",
+		"message": "up to {{number}}MB"
+	}
+}

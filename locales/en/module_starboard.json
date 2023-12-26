@@ -1,0 +1,47 @@
+{
+  "Settings": {
+    "TabTitle": "Settings",
+    "Forms": {
+      "StarCount": {
+        "Title": "Star count",
+        "Label": "Number of star reactions required for a message to be highlighted in the starboard channel:",
+        "Ignore": "Ignore stars reacted by the message author",
+        "Automatic": "Automatically add a star reaction to posts in the starboard channel"
+      },
+      "Starboard": {
+        "Title": "Starboard Channel",
+        "Label": "Messages that hit the star count (7 stars) will be highlighted in this channel:"
+      },
+      "IgnoreChannels": {
+        "Title": "Ignored Channels",
+        "Label": "Dyno will not highlight any messages sent in any of these channels.:"
+      },
+      "IgnoreRoles": {
+        "Title": "Ignored Roles",
+        "Label": "Messages that hit the star count (7 stars) will be highlighted in this channel:"
+      },
+      "Color": {
+        "Title": "Embed Color",
+        "Label": "Change the embed bar color of starboarded posts:"
+      }
+    }
+  },
+  "Thresholds": {
+    "TabTitle": "Custom Thresholds",
+    "Forms": {
+      "CustomThreshold": {
+        "Title": "Add Custom Starboard",
+        "Label": "Add custom overrides for thresholds (if none, all channels will use the default threshold in Settings)."
+      }
+    }
+  },
+  "SecretStarboards": {
+    "TabTitle": "Custom Thresholds",
+    "Forms": {
+      "CustomThreshold": {
+        "Title": "Add Custom Starboard",
+        "Label": "Add specific to a custom starboard channel other than the main starboard channel (can be helpful for hidden starboards)."
+      }
+    }
+  }
+}

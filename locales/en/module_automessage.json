@@ -1,0 +1,31 @@
+{
+  "Forms": {
+    "Name": {
+      "Label": "Message Name",
+      "Placeholder": "Enter text here"
+    },
+    "Channel": {
+      "Label": "Channel To Post In"
+    },
+    "IntervalType": {
+      "Label": "Interval Type"
+    },
+    "IntervalSelect": {
+      "Label": "Select Repeating Interval"
+    },
+    "Date": {
+      "Label": "Select Date and Time for First Post"
+    },
+    "MessageType": {
+      "Label": "Message Type"
+    },
+    "MessageContent": {
+      "Label": "Message Content",
+      "Placeholder": "Your message here"
+    }
+  },
+  "NewAutoMessage": "New Auto Message",
+  "FormDescription": "Control and customize whether and how this server is listed on our server list, which can be found here",
+  "EditAutoMessage": "Edit Auto Message",
+  "SortMessage": "Sort messages by"
+}

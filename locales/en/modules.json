@@ -1,0 +1,34 @@
+{
+  "welcome": {
+    "title": "Welcome",
+    "description": "This is the welcome module."
+  },
+  "starboard": {
+    "title": "Starboard",
+    "description": "Allows members to save the best posts into a channel by reacting."
+  },
+  "autoresponder": {
+    "title": "Auto Responder",
+    "description": "Automatically respond to text triggers."
+  },
+  "autodelete": {
+    "title": "Auto Delete",
+    "description": "Automatically delete messages in a channel after users send them. Won’t delete messages by bots, mods, or admins."
+  },
+  "announcements": {
+    "title": "Announcements",
+    "description": "Enables join/leave/ban announcements (with options)."
+  },
+  "autoban": {
+    "title": "Auto Ban",
+    "description": "Auto bans a user based on a set of rules."
+  },
+  "autoroles": {
+    "title": "AutoRoles",
+    "description": "Enables auto roles on join, timed auto roles, and joinable ranks."
+  },
+  "automessage": {
+    "title": "Auto Message",
+    "description": "Automatically post timed messages in a channel."
+  }
+}

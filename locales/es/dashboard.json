@@ -1,0 +1,11 @@
+{
+	"Greets": {
+		"Morning": "Good Morning, {name}",
+		"Afternoon": "Good Afternoon, {name}",
+		"Evening": "Good Evening, {name}",
+		"Default": "Welcome back, {name}"
+	},
+	"News": "Here's what's been happening in the past {count} days",
+	"Stats": "Server Stats",
+	"UpdateOn": "Update on"
+}

@@ -1,0 +1,14 @@
+{
+  "GeneralSettings": "General Settings",
+  "SetAnnouncementChannel": "Set Announcement channel:",
+  "EnableJoinMessages": "Enable Join messages",
+  "EnableLeaveMessages": "Enable Leave messages",
+  "EnableBanMessages": "Enable Ban messages",
+  "SendJoinMessagesDM": "Send Join messages as a DM",
+  "JoinMessage": "Join Message",
+  "LeaveMessage": "Leave Message",
+  "BanMessage": "Ban Message",
+  "PlainMessage": "Plain Message",
+  "Embed": "Embed",
+  "MessageContent": "Message Content"
+}

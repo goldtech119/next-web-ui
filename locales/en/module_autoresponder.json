@@ -1,0 +1,20 @@
+{
+  "Forms": {
+    "Trigger": {
+      "Label": "Trigger",
+      "Placeholder": "Enter text here"
+    },
+    "ResponseType": {
+      "Label": "Type of Response"
+    },
+    "Response": {
+      "Label": "Response"
+    },
+    "Wildcard": {
+      "Label": "Search for the command anywhere in the message"
+    }
+  },
+  "NewResponse": "New Response",
+  "EditResponse": "Edit Response",
+  "SortTrigger": "Sort triggers and responses by"
+}

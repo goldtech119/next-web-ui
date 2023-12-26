@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+GITROOT=$(git rev-parse --show-toplevel)
+
+bash $GITROOT/node_modules/@dynogg/devtools/hooks/prepare-commit-msg/jira-prefix $1
